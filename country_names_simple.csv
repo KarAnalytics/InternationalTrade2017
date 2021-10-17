@@ -73,7 +73,7 @@ fji,Fiji,Oceania,909389
 flk,Falkland Islands,South America,3361
 fra,France,Europe,66553766
 fro,Faroe Islands,Europe,50196
-fsm,"Micronesia, Federated States of",Oceania,105216
+fsm,Micronesia,Oceania,105216
 gab,Gabon,Africa,1705336
 gbr,United Kingdom,Europe,64088222
 geo,Georgia,Asia,4931226
@@ -190,7 +190,7 @@ sdn,Sudan,Africa,36108853
 sen,Senegal,Africa,13975834
 sgp,Singapore,Asia,5674472
 sgs,South Georgia and South Sandwich Islands,Antarctica,30
-shn,"Saint Helena, Ascension and Tristan da Cunha",Africa,7795
+shn,Saint Helena ,Africa,7795
 sjm,Svalbard,Europe,1872
 slb,Solomon Islands,Oceania,622469
 sle,Sierra Leone,Africa,5879098
@@ -228,7 +228,7 @@ ukr,Ukraine,Europe,44429471
 ury,Uruguay,South America,3341893
 usa,United States,North America,321368864
 uzb,Uzbekistan,Asia,29199942
-vat,Holy See (Vatican City),Europe,842
+vat,Vatican City,Europe,842
 vct,Saint Vincent and the Grenadines,North America,102627
 ven,Venezuela,South America,29275460
 vgb,British Virgin Islands,North America,33454
