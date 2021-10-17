@@ -1,0 +1,243 @@
+"Id","Country","Continent","Population","Area","Government.form","Currency","Currency.code","Birthrate","Deathrate","Life.expectancy","Latitude","Longitude"
+"abw","Aruba","North America",112162,180,"Parliamentary democracy (territory of the Kingdom of the Netherlands)","Florin","AWG",12.6,8.2,76.6,12.5,-69.9667
+"afg","Afghanistan","Asia",32564342,652230,"Presidential islamic republic","Afghani","AFN",38.6,13.9,50.9,33,65
+"ago","Angola","Africa",19625353,1246700,"Presidential republic","Kwanza","AOA",38.8,11.5,55.6,-12.5,18.5
+"aia","Anguilla","North America",16418,91,"Parliamentary democracy (self-governing territory of the UK)","Dollar","XCD",12.7,4.6,81.3,18.25,-63.1667
+"alb","Albania","Europe",3029278,28748,"parliamentary republic","Lek","ALL",12.9,6.6,78.1,41,20
+"and","Andorra","Europe",85580,468,"parliamentary democracy","Euro","EUR",8.1,7,82.7,42.5,1.6
+"ant","Netherlands Antilles","North America",227049,800,"territory of the Netherlands","Gulden","ANG",14.2,0,76.7,12.25,-68.75
+"are","United Arab Emirates","Asia",5779760,83600,"Federation of autonomous monarchies","Dirham","AED",15.4,2,77.3,24,54
+"arg","Argentina","South America",43431886,2780400,"Presidential republic","Peso","ARS",16.6,7.3,77.7,-34,-64
+"arm","Armenia","Asia",3056382,29743,"Semi-presidential republic","Dram","AMD",13.6,9.3,74.4,40,45
+"asm","American Samoa","Oceania",54343,199,"Presidential democracy (self-governing territory of the US)","Dollar","USD",22.9,4.8,75.1,-14.3333,-170
+"ata","Antarctica","Antarctica",0,14000000,"foreign-administrated territory","","",0,0,0,-90,0
+"atf","French Southern and Antarctic Lands","Antarctica",0,439672,"overseas territory of France","Euro","EUR",0,0,0,-43,67
+"atg","Antigua and Barbuda","North America",92436,443,"Parliamentary democracy (under constitutional monarchy)","Dollar","XCD",15.9,5.7,76.3,17.05,-61.8
+"aus","Australia","Australia",22751014,7741220,"Parliamentary democracy (under constitutional monarchy)","Dollar","AUD",12.2,7.1,82.2,-27,133
+"aut","Austria","Europe",8665550,83871,"Federal parliamentary republic","Euro","EUR",9.4,9.4,81.4,47.3333,13.3333
+"aze","Azerbaijan","Asia",9780780,86600,"Presidential republic","Manat","AZN",16.6,7.1,72.2,40.5,47.5
+"bdi","Burundi","Africa",10742276,27830,"Presidential republic","Franc","BIF",42,9.3,60.1,-3.5,30
+"bel","Belgium","Europe",11323973,30528,"Federal parliamentary republic (under constitutional monarchy)","Euro","EUR",11.4,9.6,80.9,50.8333,4
+"ben","Benin","Africa",10448647,112622,"Presidential republic","Franc","XOF",36,8.2,61.5,9.5,2.25
+"bfa","Burkina Faso","Africa",18931686,274200,"Presidential republic","Franc","XOF",42,11.7,55.1,13,-2
+"bgd","Bangladesh","Asia",168957745,143998,"parliamentary republic","Taka","BDT",21.1,5.6,70.9,24,90
+"bgr","Bulgaria","Europe",7186893,110879,"parliamentary republic","Lew","BGN",8.9,14.4,74.4,43,25
+"bhr","Bahrain","Asia",1346613,760,"constitutional monarchy","Dinar","BHD",13.7,2.7,78.7,26,50.55
+"bhs","Bahamas","North America",324597,13880,"Parliamentary democracy (under constitutional monarchy)","Dollar","BSD",15.5,7.1,72.2,24.25,-76
+"bih","Bosnia and Herzegovina","Europe",3867055,51197,"parliamentary republic","Konvertible Mark","BAM",8.9,9.8,76.5,44,18
+"blm","Saint Barthelemy","America",7237,21,"territory of France","Euro","EUR",0,0,0,,
+"blr","Belarus","Europe",9589689,207600,"Presidential republic (in fact a dictatorship)","Rubel","BYR",10.7,13.4,72.5,53,28
+"blz","Belize","Central America",347369,22966,"Parliamentary democracy (under constitutional monarchy)","Dollar","BZD",24.7,6,68.6,17.25,-88.75
+"bmu","Bermuda","North America",70196,54,"Parliamentary democracy (self-governing territory of the UK)","Dollar","BMD",11.3,8.2,81.2,32.3333,-64.75
+"bol","Bolivia","South America",10800882,1098581,"Presidential republic","Boliviano","BOB",22.8,6.5,68.9,-17,-65
+"bra","Brazil","South America",204259812,8514877,"Federal presidential republic","Real","BRL",14.5,6.6,73.5,-10,-55
+"brb","Barbados","North America",290604,430,"Parliamentary democracy (under constitutional monarchy)","Dollar","BBD",11.9,8.4,75.2,13.1667,-59.5333
+"brn","Brunei","Asia",429646,5765,"Absolute monarchy/sultanate","Dollar","BND",17.3,3.5,77,4.5,114.6667
+"btn","Bhutan","Asia",741919,38394,"constitutional monarchy","Ngultrum","BTN",17.8,6.7,69.5,27.5,90.5
+"bvt","Bouvet Island","Antarctica",0,49,"territory of Norway","Krone","NOK",0,0,0,-54.4333,3.4
+"bwa","Botswana","Africa",2182719,581730,"parliamentary republic","Pula","BWP",21,13.4,54.2,-22,24
+"caf","Central African Republic","Africa",5391539,622984,"Presidential republic","Franc","XAF",35.1,13.8,51.8,7,21
+"can","Canada","North America",35099836,9984670,"Federal parliamentary republic (under constitutional monarchy)","Dollar","CAD",10.3,8.4,81.8,60,-95
+"cck","Cocos Islands","Australia",596,14,"(non-self-governing territory of Australia)","Dollar","AUD",0,0,0,-12.5,96.8333
+"che","Switzerland","Europe",8121830,41277,"Federal republic","Franken","CHF",10.5,8.1,82.5,47,8
+"chl","Chile","South America",17508260,756102,"Presidential republic","Peso","CLP",13.8,6,78.6,-30,-71
+"chn","China","Asia",1367485388,9596960,"People's republic (communist 	one-party system)","Yuan","CNY",12.5,7.5,75.4,35,105
+"cmr","Cameroon","Africa",23739218,475440,"Presidential republic","Franc","XAF",36.2,10.1,57.9,6,12
+"cog","Republic of the Congo","Africa",4755097,342000,"Presidential republic","Franc","CDF",35.9,10,58.8,-1,15
+"cok","Cook Islands","Oceania",9838,236,"parliamentary democracy","Dollar","NZD",14.3,8,75.6,-21.2333,-159.7667
+"col","Colombia","South America",46736728,1138910,"Presidential republic","Peso","COP",16.5,5.4,75.5,4,-72
+"com","Comoros","Africa",780971,2235,"Federal presidential republic","Franc","KMF",27.8,7.6,63.9,-12.1667,44.25
+"cpv","Cape Verde","Africa",545993,4033,"parliamentary republic","Escudo","CVE",20.3,6.1,71.8,16,-24
+"cri","Costa Rica","Central America",4814144,51100,"Presidential republic","Colón","CRC",15.9,4.6,78.4,10,-84
+"cub","Cuba","North America",11031433,110860,"Republic (communist one-party system)","Peso","CUP",9.9,7.7,78.4,21.5,-80
+"cuw","Curacao","America",146836,444,"parliamentary republic","Gulden","ANG",0,8,78,,
+"cxr","Christmas Island","Australia",1530,135,"(non-self-governing territory of Australia)","Dollar","AUD",0,0,0,-10.5,105.6667
+"cym","Cayman Islands","North America",56092,264,"Parliamentary democracy (self-governing territory of the UK)","Cayman-Dollar","KYD",12.1,5.5,81.1,19.5,-80.5
+"cyp","Cyprus","Asia",1189197,9251,"Presidential democracy","Euro","EUR",11.4,6.6,78.5,35,33
+"cze","Czech Republic","Europe",10644842,78867,"parliamentary republic","Krone","CZK",9.6,10.3,78.5,49.75,15.5
+"deu","Germany","Europe",80854408,357022,"Federal parliamentary republic","Euro","EUR",8.5,11.4,80.6,51,9
+"dji","Djibouti","Africa",828324,23200,"Semi-presidential republic","Franc","DJF",23.7,7.7,62.8,11.5,43
+"dma","Dominica","North America",73607,751,"parliamentary republic","Dollar","XCD",15.4,7.9,76.8,15.4167,-61.3333
+"dnk","Denmark","Europe",5581503,43094,"Parliamentary constitutional monarchy","Krone","DKK",10.3,10.3,79.2,56,10
+"dom","Dominican Republic","North America",10478756,48670,"Presidential republic","Peso","DOP",18.7,4.6,78,19,-70.6667
+"dza","Algeria","Africa",39542166,2381741,"Presidential republic","Dinar","DZD",23.7,4.3,76.6,28,3
+"ecu","Ecuador","South America",15868396,283561,"Presidential republic","Dollar","USD",18.5,5.1,76.6,-2,-77.5
+"egy","Egypt","Africa",88487396,1001450,"Presidential republic","Pfund","EGP",22.9,4.8,73.7,27,30
+"eri","Eritrea","Africa",6527689,117600,"Presidential republic","Nakfa","ERN",30,7.5,63.8,15,39
+"esh","Western Sahara","Africa",570866,266000,"republic","Dirham","MAD",30.2,8.3,62.6,24.5,-13
+"esp","Spain","Europe",48146134,505370,"Parliamentary constitutional monarchy","Euro","EUR",9.6,9,81.6,40,-4
+"est","Estonia","Europe",1265420,45228,"parliamentary republic","Euro","EUR",10.5,12.4,76.5,59,26
+"eth","Ethiopia","Africa",99465819,1104300,"Federal parliamentary republic","Birr","ETB",37.3,8.2,61.5,8,38
+"fin","Finland","Europe",5476922,338145,"parliamentary republic","Euro","EUR",10.7,9.8,80.8,64,26
+"fji","Fiji","Oceania",909389,18274,"parliamentary republic","Dollar","FJD",19.4,6,72.4,-18,175
+"flk","Falkland Islands","South America",3361,12173,"Parliamentary democracy (self-governing territory of the UK)","Pfund","FKP",0,0,0,-51.75,-59
+"fra","France","Europe",66553766,643801,"Semi-presidential republic","Euro","EUR",12.4,9.2,81.8,46,2
+"fro","Faroe Islands","Europe",50196,1393,"Parliamentary democracy (territory of the Kingdom of Denmark)","Krone","DKK",13.8,8.7,80.2,62,-7
+"fsm","Micronesia, Federated States of","Oceania",105216,702,"Federal republic","Dollar","USD",20.5,4.2,72.6,6.9167,158.25
+"gab","Gabon","Africa",1705336,267667,"Presidential republic","Franc","XAF",34.5,13.1,52,-1,11.75
+"gbr","United Kingdom","Europe",64088222,243610,"Parliamentary constitutional monarchy","Pfund","GBP",12.2,9.4,80.5,54,-2
+"geo","Georgia","Asia",4931226,69700,"Semi-presidential republic","Lari","GEL",12.7,10.8,76,42,43.5
+"gha","Ghana","Africa",26327649,238533,"Presidential republic","Ghana Cedi","GHS",31.1,7.2,66.2,8,-2
+"gib","Gibraltar","Europe",29258,7,"Parliamentary democracy (self-governing territory of the UK)","Pfund","GIP",14.1,8.4,79.3,36.1833,-5.3667
+"gin","Guinea","Africa",11780162,245857,"Presidential republic","Franc","GNF",35.7,9.5,60.1,11,-10
+"glp","Guadeloupe","North America",456000,1628,"overseas territory of France","Euro","EUR",0,0,77,16.25,-61.5833
+"gmb","Gambia","Africa",1967709,11295,"Presidential republic","Dalasi","GMD",30.9,7.2,64.6,13.4667,-16.5667
+"gnb","Guinea-Bissau","Africa",1726170,36125,"Semi-presidential republic","Franc","XOF",33.4,14.3,50.2,12,-15
+"gnq","Equatorial Guinea","Africa",740743,28051,"Presidential republic","Franc","XAF",33.3,8.2,63.9,2,10
+"grc","Greece","Europe",10775643,131957,"parliamentary republic","Euro","EUR",8.7,11.1,80.4,39,22
+"grd","Grenada","North America",110694,344,"parliamentary democracy","Dollar","XCD",16,8.1,74,12.1167,-61.6667
+"grl","Greenland","North America",57733,2166086,"Parliamentary democracy (territory of the Kingdom of Denmark)","Krone","DKK",14.5,8.5,72.1,72,-40
+"gtm","Guatemala","Central America",14918999,108889,"Presidential republic","Quetzal","GTQ",24.9,4.8,72,15.5,-90.25
+"guf","French Guiana","South America",181000,83534,"overseas territory of France","Euro","EUR",0,0,76.1,4,-53
+"gum","Guam","Oceania",161785,544,"Presidential democracy (self-governing unincorporated territory of the US)","Dollar","USD",16.8,5.1,79,13.4667,144.7833
+"guy","Guyana","South America",735222,214969,"parliamentary republic","Dollar","GYD",15.6,7.3,68.1,5,-59
+"hkg","Hong Kong","Asia",7141106,1108,"Presidential limited democracy (special administrative region of China)","Dollar","HKD",9.2,7.1,82.9,22.25,114.1667
+"hmd","Heard Island and McDonald Islands","Antarctica",0,412,"territory of Australia","Dollar","AUD",0,0,0,-53.1,72.5167
+"hnd","Honduras","Central America",8746673,112090,"Presidential republic","Lempira","HNL",23.1,5.2,71,15,-86.5
+"hrv","Croatia","Europe",4464844,56594,"parliamentary republic","Kuna","HRK",9.5,12.2,76.6,45.1667,15.5
+"hti","Haiti","North America",10110019,27750,"Semi-presidential republic","Gourde","HTG",22.3,7.8,63.5,19,-72.4167
+"hun","Hungary","Europe",9897541,93028,"parliamentary republic","Forint","HUF",9.2,12.7,75.7,47,20
+"idn","Indonesia","Asia",255993674,1904569,"Presidential republic","Rupiah","IDR",16.7,6.4,72.5,-5,120
+"imn","Isle of Man","Europe",87545,572,"Parliamentary democracy (autonomous Crown dependency of the UK)","Pfund","IMP",11.1,10.1,81.1,54.23,-4.55
+"ind","India","Asia",1251695584,3287263,"Federal parliamentary republic","Rupie","INR",19.6,7.3,68.1,20,77
+"irl","Ireland","Europe",4892305,70273,"parliamentary republic","Euro","EUR",14.8,6.5,80.7,53,-8
+"irn","Iran","Asia",81824270,1648195,"islamic republic","Rial","IRR",18,5.9,71.2,32,53
+"irq","Iraq","Asia",37056169,438317,"Federal parliamentary republic","Dinar","IQD",31.5,3.8,74.8,33,44
+"isl","Iceland","Europe",331918,103000,"parliamentary republic","Krone","ISK",13.9,6.3,83,65,-18
+"isr","Israel","Asia",8049314,20770,"parliamentary democracy","Schekel","ILS",18.5,5.2,82.3,31.5,34.75
+"ita","Italy","Europe",61855120,301340,"parliamentary republic","Euro","EUR",8.7,10.2,82.1,42.8333,12.8333
+"jam","Jamaica","North America",2950210,10991,"Parliamentary democracy (under constitutional monarchy)","Dollar","JMD",18.2,6.7,73.5,18.25,-77.5
+"jor","Jordan","Asia",8117564,89342,"Parliamentary constitutional monarchy","Dinar","JOD",25.4,3.8,74.3,31,36
+"jpn","Japan","Asia",126919659,377915,"Parliamentary constitutional monarchy","Yen","JPY",7.9,9.5,84.7,36,138
+"kaz","Kazakhstan","Asia",18157122,2724900,"Presidential republic","Tenge","KZT",19.2,8.2,70.5,48,68
+"ken","Kenya","Africa",45925301,580367,"Presidential republic","Schilling","KES",26.4,6.9,63.8,1,38
+"kgz","Kyrgyzstan","Asia",5664939,199951,"parliamentary republic","Som","KGS",23,6.7,70.4,41,75
+"khm","Cambodia","Asia",15708756,181035,"Parliamentary constitutional monarchy","Riel","KHR",23.8,7.7,64.1,13,105
+"kir","Kiribati","Oceania",105711,811,"Presidential republic","Dollar","AUD",21.5,7.1,65.8,1.4167,173
+"kna","Saint Kitts and Nevis","North America",51936,261,"Federal parliamentary republic (under constitutional monarchy)","Dollar","XCD",13.5,7.1,75.5,17.3333,-62.75
+"kor","South Korea","Asia",49115196,99720,"Presidential republic","Won","KRW",8.2,6.8,80,37,127.5
+"ksv","Kosovo","Europe",1870981,10887,"parliamentary republic","Euro","EUR",0,0,69,,
+"kwt","Kuwait","Asia",2788534,17818,"constitutional monarchy","Dinar","KWD",19.9,2.2,77.8,29.3375,47.6581
+"lao","Laos","Asia",6911544,236800,"Republic (communist one-party system)","Kip","LAK",24.3,7.6,63.9,18,105
+"lbn","Lebanon","Asia",6184701,10400,"parliamentary republic","Pfund","LBP",14.6,4.9,77.4,33.8333,35.8333
+"lbr","Liberia","Africa",4195666,111369,"Presidential republic","Dollar","LRD",34.4,9.7,58.6,6.5,-9.5
+"lby","Libya","Africa",6411776,1759540,"Republic (transitional government after dictatorship)","Dinar","LYD",18,3.6,76.3,25,17
+"lca","Saint Lucia","North America",163922,616,"Parliamentary democracy (under constitutional monarchy)","Dollar","XCD",13.7,7.4,77.6,13.8833,-61.1333
+"lie","Liechtenstein","Europe",37624,160,"constitutional monarchy","Franken","CHF",10.5,7.1,81.8,47.1667,9.5333
+"lka","Sri Lanka","Asia",22053488,65610,"Presidential republic","Rupie","LKR",15.9,6.1,76.6,7,81
+"lso","Lesotho","Africa",1947701,30355,"Parliamentary constitutional monarchy","Loti","LSL",25.5,14.9,52.9,-29.5,28.5
+"ltu","Lithuania","Europe",2884433,65300,"Semi-presidential republic","Litas","LTL",10.1,14.3,74.7,56,24
+"lux","Luxembourg","Europe",570252,2586,"constitutional monarchy","Euro","EUR",11.4,7.2,82.2,49.75,6.1667
+"lva","Latvia","Europe",1986705,64589,"parliamentary republic","Euro","EUR",10,14.3,74.2,57,25
+"mac","Macau","Asia",592731,28,"Presidential limited democracy (special administrative region of China)","Pataca","MOP",8.9,4.2,84.5,22.1667,113.55
+"maf","Saint Martin","America",39689,54,"Republic (autonomous territory of the Kingdom of the Netherlands)","Gulden","ANG",13,4.5,77.6,,
+"mar","Morocco","Africa",33322699,446550,"Parliamentary constitutional monarchy","Dirham","MAD",18.2,4.8,76.7,32,-5
+"mco","Monaco","Europe",30535,2,"constitutional monarchy","Euro","EUR",6.7,9.2,89.5,43.7333,7.4
+"mda","Moldova","Europe",3546847,33851,"parliamentary republic","Leu","MDL",12,12.6,70.4,47,29
+"mdg","Madagascar","Africa",23812681,587041,"Semi-presidential republic","Ariary","MGA",32.6,6.8,65.5,-20,47
+"mdv","Maldives","Asia",393253,298,"Presidential republic","Rufiyaa","MVR",15.8,3.9,75.4,3.25,73
+"mex","Mexico","North America",121736809,1964375,"Federal presidential republic","Peso","MXN",18.8,5.3,75.7,23,-102
+"mhl","Marshall Islands","Oceania",72191,181,"Presidential republic","Dollar","USD",25.6,4.2,72.8,9,168
+"mkd","Macedonia","Europe",2096015,25713,"parliamentary republic","Denar","MKD",11.6,9.1,76,41.8333,22
+"mli","Mali","Africa",16955536,1240192,"Semi-presidential republic","Franc","XOF",45,12.9,55.3,17,-4
+"mlt","Malta","Europe",413965,316,"parliamentary republic","Euro","EUR",10.2,9.1,80.2,35.8333,14.5833
+"mmr","Burma","Asia",56320206,676578,"parliamentary republic","Kyat","MMK",18.4,8,66.3,22,98
+"mne","Montenegro","Europe",647073,13812,"parliamentary republic","Euro","EUR",10.4,9.4,0,42,19
+"mng","Mongolia","Asia",2992908,1564116,"Semi-presidential republic","Tögrög","MNT",20.3,6.4,69.3,46,105
+"mnp","Northern Mariana Islands","Oceania",52344,464,"Presidential democracy","Dollar","USD",18.3,3.7,77.8,15.2,145.75
+"moz","Mozambique","Africa",25303113,799380,"Presidential republic","Metical","MZN",38.6,12.1,52.9,-18.25,35
+"mrt","Mauritania","Africa",3596702,1030700,"Presidential republic","Ouguiya","MRO",31.3,8.2,62.6,20,-12
+"msr","Montserrat","North America",5241,102,"Parliamentary democracy (self-governing territory of the UK)","Dollar","XCD",11.3,6.3,74.1,16.75,-62.2
+"mtq","Martinique","North America",395000,1128,"overseas territory of France","Euro","EUR",0,0,78.3,14.6667,-61
+"mus","Mauritius","Africa",1339827,2040,"parliamentary republic","Rupie","MUR",13.3,6.9,75.4,-20.2833,57.55
+"mwi","Malawi","Africa",17964697,118484,"Presidential republic","Kwacha","MWK",41.6,8.4,60.7,-13.5,34
+"mys","Malaysia","Asia",30513848,329847,"Federal constitutional monarchy","Ringgit","MYR",19.7,5,74.8,2.5,112.5
+"myt","Mayotte","Africa",223765,374,"overseas territory of France","Euro","EUR",39.3,0,62.9,-12.8333,45.1667
+"nam","Namibia","Africa",2212307,824292,"Presidential republic","Dollar","NAD",19.8,13.9,51.6,-22,17
+"ncl","New Caledonia","Oceania",271615,18575,"Parliamentary democracy (territory of France)","Franc","XPF",15.3,5.5,77.5,-21.5,165.5
+"ner","Niger","Africa",18045729,1267000,"Semi-presidential republic","Franc","XOF",45.5,12.4,55.1,16,8
+"nfk","Norfolk Island","Australia",2210,36,"Parliamentary democracy (territory of Australia)","Dollar","AUD",0,0,0,-29.0333,167.95
+"nga","Nigeria","Africa",181562056,923768,"Federal presidential republic","Naira","NGN",37.6,12.9,53,10,8
+"nic","Nicaragua","Central America",5907881,130370,"Presidential republic","Córdoba Oro","NIO",18,5.1,73,13,-85
+"niu","Niue","Oceania",1190,260,"parliamentary democracy","Dollar","NZD",0,0,0,-19.0333,-169.8667
+"nld","Netherlands","Europe",16947904,41543,"Parliamentary constitutional monarchy","Euro","EUR",10.8,8.7,81.2,52.5,5.75
+"nor","Norway","Europe",5207689,323802,"Parliamentary constitutional monarchy","Krone","NOK",12.1,8.1,81.7,62,10
+"npl","Nepal","Asia",31551305,147181,"Federal parliamentary republic","Rupie","NPR",20.6,6.6,67.5,28,84
+"nru","Nauru","Oceania",9540,21,"parliamentary republic","Dollar","AUD",25,5.9,66.8,-0.5333,166.9167
+"nzl","New Zealand","Australia",4438393,267710,"Parliamentary democracy (under constitutional monarchy)","Dollar","NZD",13.3,7.4,81,-41,174
+"omn","Oman","Asia",3286936,309500,"absolute monarchy","Rial","OMR",24.4,3.4,75.2,21,57
+"pak","Pakistan","Asia",199085847,796095,"Federal parliamentary republic","Rupie","PKR",22.6,6.5,67.4,30,70
+"pan","Panama","Central America",3657024,75420,"Presidential republic","Balboa","PAB",18.3,4.8,78.5,9,-80
+"pcn","Pitcairn Islands","Oceania",48,47,"Parliamentary democracy (territory of the US)","Pfund","GBP",0,0,0,-24.7,-127.4
+"per","Peru","South America",30444999,1285216,"Presidential republic","Nuevo Sol","PEN",18.3,6,73.5,-10,-76
+"phl","Philippines","Asia",100998376,300000,"Presidential republic","Peso","PHP",24.3,6.1,69,13,122
+"plw","Palau","Oceania",21265,459,"Presidential republic","Dollar","USD",11.1,8,72.9,7.5,134.5
+"png","Papua New Guinea","Oceania",6672429,462840,"Parliamentary democracy (under constitutional monarchy)","Kina","PGK",24.4,6.5,67,-6,147
+"pol","Poland","Europe",38562189,312685,"parliamentary republic","Zloty","PLN",9.7,10.2,77.4,52,20
+"pri","Puerto Rico","North America",3598357,13790,"Presidential democracy","Dollar","USD",10.9,8.7,79.2,18.25,-66.5
+"prk","North Korea","Asia",24983205,120538,"People's republic (communist 	one-party system)","Won","KPW",14.5,9.2,70.1,40,127
+"prt","Portugal","Europe",10825309,92090,"Semi-presidential republic","Euro","EUR",9.3,11,79.2,39.5,-8
+"pry","Paraguay","South America",6783272,406752,"Presidential republic","Guaraní","PYG",16.4,4.7,77,-23,-58
+"pse","Palestine","Asia",2731052,5860,"autonomous region","Schekel","ILS",23.4,3.5,75.7,32,35.25
+"pyf","French Polynesia","Oceania",282703,4167,"Parliamentary democracy (territory of France)","Franc","XPF",15.2,5,77,-15,-140
+"qat","Qatar","Asia",2194817,11586,"absolute monarchy","Dollar","QAR",9.8,1.5,78.6,25.5,51.25
+"reu","Reunion","Africa",699000,2512,"overseas territory of France","Euro","EUR",0,0,72.7,-21.1,55.6
+"rou","Romania","Europe",21666350,238391,"Semi-presidential republic","Leu","RON",9.1,11.9,74.9,46,25
+"rus","Russia","Europe",142423773,17098242,"Federal republic","Rubel","RUB",11.6,13.7,70.5,60,100
+"rwa","Rwanda","Africa",12661733,26338,"Presidential republic","Franc","RWF",33.8,9,59.7,-2,30
+"sau","Saudi Arabia","Asia",27752316,2149690,"absolute monarchy","Riyal","SAR",18.5,3.3,75,25,45
+"sdn","Sudan","Africa",36108853,1861484,"Presidential republic","Pfund","SDG",29.2,7.7,63.7,15,30
+"sen","Senegal","Africa",13975834,196722,"Presidential republic","Franc","XOF",34.5,8.5,61.3,14,-14
+"sgp","Singapore","Asia",5674472,697,"parliamentary republic","Dollar","SGD",8.3,3.4,84.7,1.3667,103.8
+"sgs","South Georgia and South Sandwich Islands","Antarctica",30,3903,"British overseas territory","Pfund","GBP",0,0,0,-54.5,-37
+"shn","Saint Helena, Ascension and Tristan da Cunha","Africa",7795,308,"Parliamentary democracy (limited self-governing territory of the UK)","Pfund","SHP",9.9,7.4,79.4,-15.9333,-5.7
+"sjm","Svalbard","Europe",1872,377,"territory of Norway","Krone","NOK",0,0,0,78,20
+"slb","Solomon Islands","Oceania",622469,28896,"Parliamentary democracy (under constitutional monarchy)","Dollar","SBD",25.8,3.9,75.1,-8,159
+"sle","Sierra Leone","Africa",5879098,71740,"Presidential republic","Leone","SLL",37,10.8,57.8,8.5,-11.5
+"slv","El Salvador","Central America",6141350,21041,"Presidential republic","Dollar","USD",16.5,5.7,74.4,13.8333,-88.9167
+"smr","San Marino","Europe",33020,61,"parliamentary republic","Euro","EUR",8.6,8.5,83.2,43.7667,12.4167
+"som","Somalia","Africa",10616380,637657,"Federal parliamentary republic","Schilling","SOS",40.5,13.6,52,10,49
+"spm","Saint Pierre and Miquelon","North America",5657,242,"Parliamentary democracy (territory of France)","Euro","EUR",7.4,9.7,80.4,46.8333,-56.3333
+"srb","Serbia","Europe",7176794,77474,"parliamentary republic","Dinar","RSD",9.1,13.7,75.3,44,21
+"ssd","South Sudan","Africa",12042910,644329,"Presidential republic","Pfund","SSP",36.9,8.2,0,,
+"stp","Sao Tome and Principe","Africa",194006,964,"Semi-presidential republic","Dobra","STD",34.2,7.2,64.6,1,7
+"sur","Suriname","South America",579633,163820,"Presidential republic","Dollar","SRD",16.3,6.1,72,4,-56
+"svk","Slovakia","Europe",5445027,49035,"parliamentary republic","Euro","EUR",9.9,9.7,76.9,48.6667,19.5
+"svn","Slovenia","Europe",1983412,20273,"parliamentary republic","Euro","EUR",8.4,11.4,78,46,15
+"swe","Sweden","Europe",9801616,450295,"Parliamentary constitutional monarchy","Krone","SEK",12,9.4,82,62,15
+"swz","Swaziland","Africa",1435613,17364,"absolute monarchy","Lilangeni","SZL",24.7,13.6,51,-26.5,31.5
+"syc","Seychelles","Africa",92430,455,"Presidential republic","Rupie","SCR",14.2,6.9,74.5,-4.5833,55.6667
+"syr","Syria","Asia",17064854,185180,"Presidential republic","Pfund","SYP",22.2,4,74.7,35,38
+"tca","Turks and Caicos Islands","North America",50280,948,"Parliamentary democracy (self-governing territory of the UK)","Dollar","USD",16.1,3.1,79.7,21.75,-71.5833
+"tcd","Chad","Africa",11631456,1284000,"Presidential republic","Franc","XAF",36.6,14.3,49.8,15,19
+"tgo","Togo","Africa",7552318,56785,"Presidential republic","Franc","XOF",34.1,7.3,64.5,8,1.1667
+"tha","Thailand","Asia",67976405,513120,"Constitutional monarchy (interim military-government since May 2014)","Baht","THB",11.2,7.8,74.4,15,100
+"tjk","Tajikistan","Asia",8191958,143100,"Presidential republic","Somoni","TJS",24.4,6.2,67.4,39,71
+"tkl","Tokelau","Oceania",1337,12,"Parliamentary democracy (territory of New Zealand)","Dollar","NZD",0,0,0,-9,-172
+"tkm","Turkmenistan","Asia",5231422,488100,"Presidential republic","Manat","TMT",19.4,6.1,69.8,40,60
+"tls","Timor-Leste","Asia",1231116,14874,"Semi-presidential republic","Dollar","USD",34.2,6.1,67.7,-8.55,125.5167
+"ton","Tonga","Oceania",106501,747,"constitutional monarchy","Pa'anga","TOP",23,4.9,76,-20,-175
+"tto","Trinidad and Tobago","North America",1222363,5128,"parliamentary republic","Dollar","TTD",13.5,8.6,72.6,11,-61
+"tun","Tunisia","Africa",11037225,163610,"parliamentary republic","Dinar","TND",16.6,6,75.9,34,9
+"tur","Turkey","Asia",79414269,783562,"parliamentary republic","Lira","TRY",16.3,5.9,74.6,39,35
+"tuv","Tuvalu","Oceania",10869,26,"Parliamentary democracy (under constitutional monarchy)","Dollar","AUD",23.7,8.7,66.2,-8,178
+"twn","Taiwan","Asia",23415126,35980,"Semi-presidential republic","Dollar","TWD",8.5,7.1,80,23.5,121
+"tza","Tanzania","Africa",51045882,947300,"Presidential republic","Schilling","TZS",36.4,8,61.7,-6,35
+"uga","Uganda","Africa",37101745,241038,"Presidential republic","Schilling","UGX",43.8,10.7,54.9,1,32
+"ukr","Ukraine","Europe",44429471,603550,"Semi-presidential republic","Hrywnja","UAH",10.7,14.5,71.6,49,32
+"ury","Uruguay","South America",3341893,176215,"Presidential republic","Peso","UYU",13.1,9.5,77,-33,-56
+"usa","United States","North America",321368864,9826675,"Federal presidential republic","Dollar","USD",12.5,8.2,79.7,38,-97
+"uzb","Uzbekistan","Asia",29199942,447400,"Presidential republic","So'm","UZS",17,5.3,73.5,41,64
+"vat","Holy See (Vatican City)","Europe",842,0,"absolute monarchy","Euro","EUR",0,0,0,41.9,12.45
+"vct","Saint Vincent and the Grenadines","North America",102627,389,"Parliamentary democracy (under constitutional monarchy)","Dollar","XCD",13.6,7.2,75.1,13.25,-61.2
+"ven","Venezuela","South America",29275460,912050,"Federal presidential republic","Bolívar Fuerte","VEF",19.2,5.3,74.5,8,-66
+"vgb","British Virgin Islands","North America",33454,151,"Parliamentary democracy (self-governing territory of the UK)","Dollar","USD",10.9,5,78.5,18.5,-64.5
+"vir","Virgin Islands","North America",103574,1910,"Presidential democracy (self-governing territory of the US)","Dollar","USD",10.3,8.5,79.9,18.3333,-64.8333
+"vnm","Vietnam","Asia",94348835,331210,"Republic (communist one-party system)","Dong","VND",16,5.9,73.2,16,106
+"vut","Vanuatu","Oceania",272264,12189,"parliamentary republic","Vatu","VUV",25,4.1,73.1,-16,167
+"wlf","Wallis and Futuna","Oceania",15613,142,"Parliamentary democracy (territory of France)","Franc","XPF",13.5,5.1,79.6,-13.3,-176.2
+"wsm","Samoa","Oceania",197773,2831,"parliamentary republic","Tala","WST",20.9,5.3,73.5,-13.5833,-172.3333
+"yem","Yemen","Asia",26737317,527968,"republic","Rial","YER",30,6.3,65.2,15,48
+"zaf","South Africa","Africa",53675563,1219090,"parliamentary republic","Rand","ZAR",20.8,9.9,62.3,-29,24
+"zmb","Zambia","Africa",15066266,752618,"Presidential republic","Kwacha","ZMK",42.1,12.7,52.1,-15,30
+"zwe","Zimbabwe","Africa",14229541,390757,"Semi-presidential republic","Dollar","ZWL",32.3,10.1,57,-20,30
